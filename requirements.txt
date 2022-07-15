@@ -50,7 +50,7 @@ defusedxml==0.6.0
 dialog-api==0.0.50
 dialog-bot-sdk==2.2.10
 dill==0.3.1.1
-distributed==2.8.1
+distributed==2021.10.0
 Django==2.2.7
 django-utils==0.0.2
 docopt==0.6.2
